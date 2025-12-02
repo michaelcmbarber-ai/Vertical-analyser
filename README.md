@@ -1,2 +1,2 @@
-# Vertical-analyser
+# vehicle-analyzer
 Vehicle acceleration analyser
